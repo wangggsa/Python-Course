@@ -19,4 +19,4 @@ while periode <= 0 :
 
 hasil = modal_awal * pow(1 + suku_bunga/100, periode)
 
-print(f"Hasil dari perhitungan bunga majemuk mu adalah Rp.{hasil:,.2f}")
+print(f"Saldo setelah {periode} tahun adalah Rp.{hasil:,.2f}")
